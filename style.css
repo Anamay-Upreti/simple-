@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0a0b19;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+nav ul li{
+    display: inline;
+    float: right;
+    margin: 10px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+.ddimage{
+    height: 21px;
+    width: 21px;
+    position: relative;
+    top: 141px;
+    left: 350px;
+}
+
+h4{
+    color: white;
+    position: relative;
+    top: 98px;
+    left: 380px;
+}
+h2.mark{
+    color: white;
+    position: relative;
+    top: 84px;
+    left: 351px;
+}
+h3{
+    color: rgb(202, 202, 12);
+    position: relative;
+    top: 70px;
+    left: 351px;
+}
+.pc-image{
+    height: 244px;
+    width: 262px;
+    position: relative;
+    top: -130px;
+    left: 590px;
+    cursor: pointer;
+}
+h2.Projects{
+   color: white;
+   position: relative;
+   bottom: 124px;
+   left: 631px;
+   text-decoration :  underline 7px solid rgb(6, 33, 91) ;
+   text-underline-position: under;
+}
+.img1{
+    width: 210px;
+    height: 210px;
+    position: relative;
+    left: 444px;
+    bottom: 122px;
+    cursor: pointer;
+}
+.img2{
+    width: 210px;
+    height: 210px;
+    position: relative;
+    left: 490px;
+    bottom: 122px;
+    cursor: pointer;
+}
+.img3{
+    width: 210px;
+    height: 210px;
+    position: relative;
+    top: 102px;
+    left: 10px;
+    cursor: pointer;
+}
+.img4{
+    width: 210px;
+    height: 210px;
+    position: relative;
+    top: 102px;
+    left: 60px;
+    cursor: pointer;
+}
+.Contactme{
+    color: white;
+    text-decoration: underline 7px solid rgb(6, 33, 91);
+    text-underline-position: under;
+    position: relative;
+    left: 610px;
+    top: 82px;
+}
+.linkedin{
+    width: 16px;
+    height: 16px;
+    position: relative;
+    bottom: -32px;
+    left: -76px;
+
+}
+.github{
+    width: 16px;
+    height: 16px;
+    position: relative;
+    bottom: -32px;
+    left: -119px;
+}
+.outlook{
+    width: 26px;
+    height: 26px;
+    position: relative;
+    bottom: -37px;
+    left: -99px;
+}
